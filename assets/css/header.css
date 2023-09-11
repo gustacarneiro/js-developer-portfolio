@@ -25,7 +25,8 @@
 
 }
 
-.header .title {
+.header .title,
+.header .title span {
     text-align: center;
     font-family: 'Neue-Machina';
 }
